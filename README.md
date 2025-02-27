@@ -63,7 +63,7 @@ Track the of the created file eg. README.md >> git add README.md
 Then commit >> git commit -m "This is the first commit"
 Finally push the changes to github>> git push
 
-Highlights the changes/contributions made on the file thus ensuring easy collaboration in tarckig changes.
+Highlights the changes/contributions made on the file thus ensuring easy collaboration in trackig changes.
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 Branching means creating other branches rather than the main branch. This ensures easy collaboration among developers by proposing changes in a new branch which is later merged to the main branch upon approval by the other contributors. This is how to create a new branch (Tamara): >git branch Tamara
 To check the created branch>> git branch (lists all the branches)
