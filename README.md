@@ -13,22 +13,29 @@ step 2: After success login, there is feature named "new", press it and it takes
 Ensure clear and concise communication on project's expectations and aids in management of contributions from the contributors.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+
 **Public Repository**
+
 1. Accessible to anyone in the internet thus enables easy collaboration
 2. Anyone can fork an contribute via pull requests
 3. Code is exposed thus posing a security challenge
 4. Free to open source projects
 5. Encourages knowledge sharing due to its open-source nature.
+
 **Advantages**
+
 1. Supports open source contributions thus improved software quality
 2. High visibilty ensure community engagement
 3. Inexpensive since it is freeon github
+
 **Disadvantages**
+
 1. High vulnerability since it is exposed
 2. No control over who contributes, either clones or forks.
 3. High possibility of getting unwantedpull requests.
 
 **Private Repository**
+
 1. Only authorized users are allowed to collaborate
 2. Only invited collaborators can contribute
 3. There is high sense of privacy thus guaranteed security
@@ -36,10 +43,13 @@ Ensure clear and concise communication on project's expectations and aids in man
 5. proprietary projects , sensitive code, internal collaboration
 
 **Advantages**
+
 1. Guaranteed security since only invited / authorized can contribute
 2. Ideal for commercial projects
 3. Low chances of getting spam pull requests
+
 **Disadvantages**
+
 1. Expensive since requires payment for commercial projects
 2. Collaboration is restricted
 3. Less visiblity thus reduced external contributions and feedback.
